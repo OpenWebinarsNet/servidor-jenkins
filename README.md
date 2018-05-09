@@ -1,6 +1,6 @@
 # Curso de Jenkins para Openwebinars.com
 
-En este repositorio, tienes el material para poder realizar el curso
+Material para poder realizar el curso
 
 ## Requisitos
 
